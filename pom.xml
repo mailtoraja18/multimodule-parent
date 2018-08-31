@@ -52,9 +52,9 @@
     </dependencies>
     <scm>
         <connection>scm:git:git@github.com:mailtoraja18/multimodule-parent.git</connection>
-        <developerConnection>scm:git:git@github.com/mailtoraja18/multimodule-parent.git</developerConnection>
+        <developerConnection>scm:git:git@github.com:mailtoraja18/multimodule-parent.git</developerConnection>
         <url>https://github.com/mailtoraja18/multimodule-parent</url>
-        <tag>0.0.1-SNAPSHOT</tag>
+        <tag>${project.version}</tag>
     </scm>
     <build>
         <plugins>
